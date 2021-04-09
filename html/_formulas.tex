@@ -1,0 +1,18 @@
+\documentclass{article}
+\usepackage{ifthen}
+\usepackage{epsfig}
+\usepackage[utf8]{inputenc}
+\usepackage{newunicodechar}
+  \newunicodechar{⁻}{${}^{-}$}% Superscript minus
+  \newunicodechar{²}{${}^{2}$}% Superscript two
+  \newunicodechar{³}{${}^{3}$}% Superscript three
+
+\pagestyle{empty}
+\begin{document}
+$ (x - xcenter)^2 + (y - ycenter)^2 + (z - zcenter)^2 \le radius^2 $
+\pagebreak
+
+$ \frac{(x - xcenter)^2}{rx^2} + \frac{(y - ycenter)^2}{ry^2} + \frac{(z - zcenter)^2}{rz^2} \le 1 $
+\pagebreak
+
+\end{document}

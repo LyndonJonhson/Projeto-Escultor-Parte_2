@@ -1,0 +1,91 @@
+dim 100 120 80
+putellipsoid 50 50 50 30 30 20 0.0 0.0 1.0 1.0
+putellipsoid 50 80 50 15 15 15 0.0 0.0 1.0 1.0
+cutbox 20 80 10 25 30 70
+putellipsoid 23 68 53 10 10 5 0.0 0.0 1.0 1.0
+putellipsoid 19 73 53 8 8 5 0.0 0.0 1.0 1.0
+putellipsoid 23 68 53 10 10 5 0.0 0.0 1.0 1.0
+putellipsoid 19 73 53 8 8 5 0.0 0.0 1.0 1.0
+putellipsoid 77 68 53 10 10 5 0.0 0.0 1.0 1.0
+putellipsoid 81 73 53 8 8 5 0.0 0.0 1.0 1.0
+putvoxel 15 80 53 0.0 0.0 1.0 1.0
+putvoxel 17 81 53 0.0 0.0 1.0 1.0
+putvoxel 18 81 53 0.0 0.0 1.0 1.0
+putvoxel 85 80 53 0.0 0.0 1.0 1.0
+putvoxel 83 81 53 0.0 0.0 1.0 1.0
+putvoxel 82 81 53 0.0 0.0 1.0 1.0
+putellipsoid 43 92 50 6 3 6 0.0 0.0 1.0 1.0
+putellipsoid 42 93 50 5 3 5 0.0 0.0 1.0 1.0
+putellipsoid 41 94 50 4 3 4 0.0 0.0 1.0 1.0
+putellipsoid 40 95 50 3 3 3 0.0 0.0 1.0 1.0
+putellipsoid 38 95 50 2 3 2 0.0 0.0 1.0 1.0
+putellipsoid 57 92 50 6 3 6 0.0 0.0 1.0 1.0
+putellipsoid 58 93 50 5 3 5 0.0 0.0 1.0 1.0
+putellipsoid 59 94 50 4 3 4 0.0 0.0 1.0 1.0
+putellipsoid 60 95 50 3 3 3 0.0 0.0 1.0 1.0
+putellipsoid 62 95 50 2 3 2 0.0 0.0 1.0 1.0
+putellipsoid 50 52 56 24 25 16 0.91 0.90 0.69 1.0
+putellipsoid 50 80 55 13 12 11 0.91 0.90 0.69 1.0
+putellipsoid 40 22 53 7 5 13 0.91 0.90 0.69 1.0
+putellipsoid 60 22 53 7 5 13 0.91 0.90 0.69 1.0
+cutbox 20 80 10 20 10 80
+putvoxel 50 88 63 0.0 0.0 1.0 1.0
+putvoxel 49 89 62 0.0 0.0 1.0 1.0
+putvoxel 50 89 62 0.0 0.0 1.0 1.0
+putvoxel 51 89 62 0.0 0.0 1.0 1.0
+putvoxel 49 90 61 0.0 0.0 1.0 1.0
+putvoxel 50 90 61 0.0 0.0 1.0 1.0
+putvoxel 51 90 61 0.0 0.0 1.0 1.0
+putvoxel 45 78 65 0.0 0.0 0.0 1.0
+putvoxel 46 78 65 0.0 0.0 0.0 1.0
+putvoxel 47 78 65 0.0 0.0 0.0 1.0
+putvoxel 48 78 65 0.0 0.0 0.0 1.0
+putvoxel 49 78 65 0.0 0.0 0.0 1.0
+putvoxel 50 78 65 0.0 0.0 0.0 1.0
+putvoxel 51 78 65 0.0 0.0 0.0 1.0
+putvoxel 52 78 65 0.0 0.0 0.0 1.0
+putvoxel 53 78 65 0.0 0.0 0.0 1.0
+putvoxel 54 78 65 0.0 0.0 0.0 1.0
+putvoxel 55 78 65 0.0 0.0 0.0 1.0
+putvoxel 45 79 65 0.0 0.0 0.0 1.0
+putvoxel 47 79 65 0.0 0.0 0.0 1.0
+putvoxel 46 80 65 0.0 0.0 0.0 1.0
+putvoxel 53 79 65 0.0 0.0 0.0 1.0
+putvoxel 55 79 65 0.0 0.0 0.0 1.0
+putvoxel 54 80 65 0.0 0.0 0.0 1.0
+putvoxel 42 85 62 0.0 0.0 0.0 1.0
+putvoxel 43 85 63 0.0 0.0 0.0 1.0
+putvoxel 44 85 64 0.0 0.0 0.0 1.0
+putvoxel 45 85 64 0.0 0.0 0.0 1.0
+putvoxel 46 85 64 0.0 0.0 0.0 1.0
+putvoxel 58 85 62 0.0 0.0 0.0 1.0
+putvoxel 57 85 63 0.0 0.0 0.0 1.0
+putvoxel 56 85 64 0.0 0.0 0.0 1.0
+putvoxel 55 85 64 0.0 0.0 0.0 1.0
+putvoxel 54 85 64 0.0 0.0 0.0 1.0
+putvoxel 46 79 65 1.0 1.0 1.0 1.0
+putvoxel 54 79 65 1.0 1.0 1.0 1.0
+putvoxel 13 79 53 1.0 1.0 1.0 1.0
+putvoxel 13 80 53 1.0 1.0 1.0 1.0
+putvoxel 14 80 53 1.0 1.0 1.0 1.0
+putvoxel 12 77 53 1.0 1.0 1.0 1.0
+putvoxel 11 76 53 1.0 1.0 1.0 1.0
+putvoxel 11 77 53 1.0 1.0 1.0 1.0
+putvoxel 11 74 53 1.0 1.0 1.0 1.0
+putvoxel 10 74 53 1.0 1.0 1.0 1.0
+putvoxel 10 73 53 1.0 1.0 1.0 1.0
+putvoxel 16 81 53 1.0 1.0 1.0 1.0
+putvoxel 17 82 53 1.0 1.0 1.0 1.0
+putvoxel 16 82 53 1.0 1.0 1.0 1.0
+putvoxel 87 79 53 1.0 1.0 1.0 1.0
+putvoxel 87 80 53 1.0 1.0 1.0 1.0
+putvoxel 86 80 53 1.0 1.0 1.0 1.0
+putvoxel 88 77 53 1.0 1.0 1.0 1.0
+putvoxel 89 76 53 1.0 1.0 1.0 1.0
+putvoxel 89 77 53 1.0 1.0 1.0 1.0
+putvoxel 89 74 53 1.0 1.0 1.0 1.0
+putvoxel 90 74 53 1.0 1.0 1.0 1.0
+putvoxel 90 73 53 1.0 1.0 1.0 1.0
+putvoxel 84 81 53 1.0 1.0 1.0 1.0
+putvoxel 83 82 53 1.0 1.0 1.0 1.0
+putvoxel 84 82 53 1.0 1.0 1.0 1.0
